@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KARMA261
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Game
+- 💞️ I’m looking to collaborate on Make Game
 - 📫 How to reach me Discord
 
 <!---
